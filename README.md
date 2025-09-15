@@ -27,10 +27,9 @@ Just follow these steps:
 ## 💳 Credits System  
 - **200 TC = 2 € (early supporters bonus!)**  
 - **50 TC = 2 € (After full release!)**
-You can buy the credits here: [TO DO]
 
 Buying credits helps support the development of the bot and improves its accuracy over time.  
-
+You can buy the credits here: [TO DO]
 ---
 ## 🌍 Where can I use it?  
 The bot runs directly on **Discord**.  
