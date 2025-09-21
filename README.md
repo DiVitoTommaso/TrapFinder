@@ -18,24 +18,10 @@ Just follow these steps:
 ---
 
 ## 📖 Usage Policy  
-- The project is **not open source**.  
-- You can use the bot for **free** up to **2 tries per day**.  
-- After that, you will need **credits (TC)** to continue using it.  
+- The project is **open source**.  
+- You can use the bot for **free** hosting it by yourself.  
 
 ---
-
-## 💳 Credits System  
-- **200 TC = 2 € (early supporters bonus!)**  
-- **50 TC = 2 € (After full release!)**
-
-Buying credits helps support the development of the bot and improves its accuracy over time.  
-You can buy the credits here: TO DO
-
----
-## 🌍 Where can I use it?  
-The bot runs directly on **Discord**.  
-You can invite it to your server or add it to your apps using this link:  
-👉 [Invite Trap Finder Bot](https://discordapp.com/oauth2/authorize?client_id=1416802405047337121)
 
 ---
 
