@@ -2,9 +2,6 @@
 
 A **Discord Bot** that detects hidden traps in Clash of Clans villages from a screenshot.  
 
-> ⚠️ This bot is meant as an **extra help** for players.  
-> It is designed to assist when you can’t figure out where traps are, **not** to replace your own strategy and gameplay.
-
 ---
 
 ## 🚀 How it Works  
