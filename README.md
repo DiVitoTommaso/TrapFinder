@@ -48,16 +48,12 @@ The bot uses **AI models** trained on a private dataset. To use it:
 
 ```text
 Data/
-├── train/
-│   ├── img1.png
-│   ├── img2.png
-│   └── ...
-├── val/
-│   ├── img1.png
-│   └── ...
-labels/
-├── train.jsonl
-├── val.jsonl
+├── labels.jsonl
+├── base1-with-traps.png
+├── base1-without-traps.png
+├── base2-with-traps.png
+├── base2-without-traps.png
+└── ...
 ```
 
 Each JSONL line corresponds to an image and contains the coordinates of hidden traps.
